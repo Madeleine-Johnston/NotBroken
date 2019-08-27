@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/IntroScene.unity
+    guid: 3758a2a22ec0afc4d807990a9a8a139f
+  - enabled: 1
+    path: Assets/Scenes/HomeScreen.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/TextModule.unity
+    guid: eb2a47972fef342079283d3633678fe2
+  - enabled: 1
+    path: Assets/Scenes/FemmDiagramme.unity
+    guid: a560728e2abc7a94ea756fac1ba433ce
+  - enabled: 1
+    path: Assets/Scenes/MascDiagramme.unity
+    guid: ef09119e9ee9c2d4e96f089e18547001
+  - enabled: 1
+    path: Assets/Scenes/BloodVessleModel.unity
+    guid: 01bf864621234c743be8ac592ca3c9e8
+  - enabled: 1
+    path: Assets/Scenes/Contraception.unity
+    guid: a65a205cf6f97ba4f99784b2a724290a
+  - enabled: 1
+    path: Assets/Scenes/Genitals.unity
+    guid: 021849c1ba5913748a27d37bfb42db1e
+  - enabled: 1
+    path: Assets/Scenes/GameInfo.unity
+    guid: 824effc3a3b9a8b4e81f20cdce3c4139
+  m_configObjects: {}

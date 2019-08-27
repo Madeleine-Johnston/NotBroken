@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Modules>
+    <Module name="CONSENT">
+        <Screen>Sample text here 1&#13;
+        blah blah blah</Screen>
+        <Screen>Sample text here 2</Screen>
+        <Screen>Sample text here 3</Screen>
+        <Screen>Sample text here 4</Screen>
+        <Screen>Sample text here 5</Screen>
+    </Module>
+    <Module name="SEXUALITY">
+        <Screen>Sample text here 1&#13;
+        blah blah blah</Screen>
+        <Screen>Sample text here 2</Screen>
+    </Module>
+</Modules>
